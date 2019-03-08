@@ -5,7 +5,12 @@ Your team is submitting a design document that should include solid plans for ap
 ## Your document(s) must include:
 
 ### Project title and team
-Include names and email addresses of all people on this project team
+
+Title: Texas Prison and Money (Working Title)
+
+Nathan Kennedy - nk8136a@student.american.edu
+Sarah Jo. - ss0293a@student.american.edu
+Drew Meseck - dm3306a@student.american.edu
 
 ### Infovis Solution [4 pages]
 You should propose an infovis solution that clearly shows you have spent some time exploring the design space. To this end, you will follow the [five sheet design method](http://fds.design/). Each sheet serves a specific purpose. We will spend some time in class discussing this method. Note: You do not have to use the templates that are provided, but your individual pages should contain the same general content.
